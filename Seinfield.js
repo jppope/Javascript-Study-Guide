@@ -14,4 +14,4 @@ var studyActivities = {};
 
 studyActivities.juneTwentyThree = {"durationHours":1, "topic": ["Passport.js", "Math.random(), concept and testing"]};
 studyActivities.juneTwentyFour = {"durationHours":1, "topic": ["Treehouse: conditional statements", "OpenSource Milage Log"]};
-
+studyActivities.juneTwentyFive = {"durationHours":1, "topic": ["Treehouse: Functions", "OpenSource Milage Log"]};
