@@ -29,3 +29,4 @@ return string;
 }
 strSplit(str);
 ****************************/
+studyActivities.juneTwentyEight = {"durationHours":1, "topic": ["CoderByte, Second challenge => figured out its recursive"]};
