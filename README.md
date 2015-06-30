@@ -33,6 +33,11 @@ So the basic track goes like this
 *	map
 *	apply
 
+** Part Three **
+*	Inheritance 
+*	Polymorphism
+*	
+
 ** Then putting it into practice **
 underscores
 

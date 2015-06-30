@@ -11,6 +11,12 @@ var resources = [
 	"name": "CodeCademy"	
 	"url": "http://www.codecademy.com/"
 	"description": "Learn how to program, a program of instruction and code challenges"	
-	}
+	},
+	{
+	"name": "Inheritance"	
+	"url": "https://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/"
+	"description": "understanding javascript inheritance"	
 	
+		
+	}
 ]
