@@ -31,4 +31,5 @@ strSplit(str);
 ****************************/
 studyActivities.juneTwentyEight = {"durationHours":1, "topic": ["CoderByte, Second challenge => figured out its recursive"]};
 studyActivities.juneTwentyNine = {"durationHours":1, "topic": ["http://eloquentjavascript.net/03_functions.html, updated nurseryrhymes.js to include chicken and the egg"]};
-studyActivities.juneThirty = {"durationHours":2, "topic": ["Recursive functions", "treehouse, for/ while basics", "titanium"]};
+studyActivities.juneThirty = {"durationHours":4, "topic": ["Recursive functions", "treehouse, for/ while basics", "titanium", "milage log"]};
+studyActivities.julyOne = {"durationHours":1, "topic": ["treehouse, for/ while basics", "milage log"]};
