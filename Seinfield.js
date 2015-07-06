@@ -34,3 +34,8 @@ studyActivities.juneTwentyNine = {"durationHours":1, "topic": ["http://eloquentj
 studyActivities.juneThirty = {"durationHours":4, "topic": ["Recursive functions", "treehouse, for/ while basics", "titanium", "milage log"]};
 studyActivities.julyOne = {"durationHours":1, "topic": ["treehouse, for/ while basics", "milage log"]};
 studyActivities.julyTwo = {"durationHours":1.5, "topic": ["treehouse, arrayBasics", "working on how to learn JS for ongoing learning"]};
+studyActivities.julyFour = {"durationHours":1, "topic": ["treehouse, arrayBasics"]};
+studyActivities.julyFive = {"durationHours":1, "topic": ["treehouse, finished arrays, loops, objects and started working on jquery"]};
+
+
+
