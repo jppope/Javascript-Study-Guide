@@ -36,6 +36,6 @@ studyActivities.julyOne = {"durationHours":1, "topic": ["treehouse, for/ while b
 studyActivities.julyTwo = {"durationHours":1.5, "topic": ["treehouse, arrayBasics", "working on how to learn JS for ongoing learning"]};
 studyActivities.julyFour = {"durationHours":1, "topic": ["treehouse, arrayBasics"]};
 studyActivities.julyFive = {"durationHours":1, "topic": ["treehouse, finished arrays, loops, objects and started working on jquery"]};
-
+studyActivities.julySix = {"durationHours":1.5, "topic": ["treehouse jquery", "text Effects"]};
 
 

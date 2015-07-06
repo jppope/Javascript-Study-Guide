@@ -12,16 +12,17 @@ Other Contributions: Steve House, PIETER GYSELINCK, ANTONIN JANUSKA, Nick Edward
 
 ********************/
 
+Core
 
-Map Reduce
+the big lie => no one starts from scratch; its balance is know thyself
+Learning is differnent for all people, but some methods are more efficient
+Motivation? why even?
 
+Start
 mapping & iterative mapping (SMART) I like cycles of three.
 building resources & iterative resource building
 	materials
 	mentors
-	video resources
-	audio
-	books (antecdotally this is the most prevelant)
 	
 motivation
 Stress Cycle and Learning Curve Modeling
@@ -40,7 +41,6 @@ Bruce Lee Method
 Higher Retention Memory
 	Josh Watkins
 	Moonwalking with Einstein
-Grinding Problems
 Debugging Memory Errors
 
 
@@ -56,136 +56,48 @@ Not to do (things that will keep you from learning)
 	
 
 
-/********************
- The Big Lie
-********************//*	
+/*ferris*/
 
-	
-I want to start by identifying the biggiest lie that I came across when researching compressed learning:  
+deconstruct
+selection 
+sequencing
+stakes
 
-everyone starts from scratch
+compression
+frequency 
+encoding
 
-Through the vast majority of "systems" that I have researched and read about (especially when people are making claims as
-to being able to do something in certain amount of time) no one ever identifies that we all start from different places.
-If I've been working at IBM as a janitor, chances are that I'm going to run into more computer stuff than a clergyman... 
-Even if I've never touched a computer for programming reasons.
+/*scott young*/
 
-The reason why I wanted to start by mentioning this is that with some of these people that have become great 
-learners or have learned difficult skills quickly you never really know where they start. Anything worth learing is 
-worth spending more time with than you will spend if you are on an accelorated learning schedule. Some methods are 
-more efficient but less frequently used on a specific topic.
+Making connections
+Debugging errors
 
-It's important that you don't get discouraged or demotivated. You may try and learn something in 6 months, but if it 
-takes you eight, thats okay. These systems are just supposed to help you learn more and learn faster- I make no claim 
-as to if this is the correct way to do things it is just a way to do things. As I have been frequently reminded the 
-destination is the journey.*/
-	
-	
-	
-	
-/******************************
-1. Map Reduce- Planning your work
-*******************************//*	
-	
-Intro:
-
-Pretty much Every Source on compressed learning Isolates out that you need to map, reduce, build resources, make  
-projections, and set goals all based on the mapping that you did. Basically know what you are going to do and when. Unfortunately there's a severe flaw with this logic in that you need to actually know something about what you are planning out to do the planning. Thus my first recommendation is iterative mapping:
- 			
-
-														*/
-
-/********************
-Iterative Mapping
-********************//*	
-
-Iterative mapping is exactly what it sounds like... do not map everything all at once. Depending on subject complexity 
-map out your activities in 3-5 iterations. 
-
-How this goes:
-
-1) Spend an hour doing loose research and writing down everything surface level that you might need to learn
-2) Write out the things that appear to be the most important concepts (in outline form)
-3) Write out your game plan (using the below techniques)
-4) Execute on that game plan
-5) Once you get about 70% of the way finished with that part of the knowledge base, then take the time to remap and plan how you are going to get through the information that you now know about
-
-Think of it like this
-Step #1- get your feet under you
-Step #2- now that you know what this thing is about learn the entirety of the subject matter
-Step #3 to Step #5- Once you are proficient, work on getting really good at it
-
-I also recommend doubling back on each iteration and touching up with anything you might need more time on. Its a really good time to harden any knowledge that you might want to. The following are some techniques for use with iterative mapping:
+Coverage
+	find a set of material to learn from
+Practice
+	Getting Immediate Feedback
+	Grinding Problems
+Insight
+	Narrowing Gaps & THE FEYNMAN TECHNIQUE
+	For Ideas You Don’t Get At All
+	go through and meticulously copy both the author’s explanation, but also try to elaborate and clarify it 
+	For Procedures
+	For Formulas
+DEVELOPING A DEEPER INTUITION
+	Analogies 
+	Visualizations
+	Simplifications
 
 
-
-/********************
-map
-********************//*
-
-Skim- Libraries used to be great for this
-Simplification - not just an Apple sales technique
-
-
-
-/********************
-reduce
-********************//*
-
-the minimum you can get away with doing
-Selecting 80/20 power rules (which are BS)
-the other thing is attrition and turnover/ failure rates
-Selection
-Tom Peters - Do not do list
-
-/********************
-Make Decisions 
-********************//*
-
-
-/********************
-make projections
-********************//*
-	
-SMART GOALS
-OKRs
-KPIS
-Stress Cycle and Learning Curve Modeling
-
-
-/********************
-build resources, 
-********************//*	
-
-materials
-mentors
-
-
-video resources
-audio
-books (antecdotally this is the most prevelant)
-Internet
-
-				
-/********************
-Compliance
-********************//*		
-
-Motivation
-"Stakes"
-Dropouts	
-
-/*
-* Seinfield / github
-**/
-		
-		
-/********************
-techniques
-********************/	
-
-
-
+/* Tony Robbins Method*/
+G) THE TONY ROBBINS METHOD.
+In the interview I said, Ok, I figured it out. You use "the Tony Robbins Method'". Which I defined as,
+1. at first you dont know anything
+2. you find 5 people who are the experts in the world
+3. you extensively interview them
+4. you figure out the most simple things they have in common with each other
+5. you do that simple thing over and over and over and over (repetition)
+And thats how you succeed.	
 	
 	
 /* JP uritis*/
@@ -603,59 +515,3 @@ That’s the only way to learn what is in the book.
 After serving other 200 times to Mollie yesterday, I don’t really care whether she learned or not. (“I love you Daddy”).
 
 All I know is: By the time we were done I learned how to serve better.
-
-
-
-
-
-/********************
-Pre-packaged
-********************/
-
-
-/*ferris*/
-
-deconstruct
-selection 
-sequencing
-stakes
-
-compression
-frequency 
-encoding
-
-/*scott young*/
-
-Making connections
-Debugging errors
-
-Coverage
-	find a set of material to learn from
-Practice
-	Getting Immediate Feedback
-	Grinding Problems
-Insight
-	Narrowing Gaps & THE FEYNMAN TECHNIQUE
-	For Ideas You Don’t Get At All
-	go through and meticulously copy both the author’s explanation, but also try to elaborate and clarify it 
-	For Procedures
-	For Formulas
-DEVELOPING A DEEPER INTUITION
-	Analogies 
-	Visualizations
-	Simplifications
-
-
-/* Tony Robbins Method*/
-G) THE TONY ROBBINS METHOD.
-In the interview I said, Ok, I figured it out. You use "the Tony Robbins Method'". Which I defined as,
-1. at first you dont know anything
-2. you find 5 people who are the experts in the world
-3. you extensively interview them
-4. you figure out the most simple things they have in common with each other
-5. you do that simple thing over and over and over and over (repetition)
-And thats how you succeed.	
-
-
-
-
