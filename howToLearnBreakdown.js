@@ -123,7 +123,9 @@ I also recommend doubling back on each iteration and touching up with anything y
 map
 ********************//*
 
+
 Skim- Libraries used to be great for this
+Tony Robbins Method- ask 5 world experts
 Simplification - not just an Apple sales technique
 
 
