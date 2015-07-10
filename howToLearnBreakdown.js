@@ -63,7 +63,7 @@ Not to do (things that will keep you from learning)
 	
 I want to start by identifying the biggiest lie that I came across when researching compressed learning:  
 
-everyone starts from scratch
+"everyone starts from scratch"
 
 Through the vast majority of "systems" that I have researched and read about (especially when people are making claims as
 to being able to do something in certain amount of time) no one ever identifies that we all start from different places.
@@ -89,8 +89,10 @@ destination is the journey.*/
 	
 Intro:
 
-Pretty much Every Source on compressed learning Isolates out that you need to map, reduce, build resources, make  
-projections, and set goals all based on the mapping that you did. Basically know what you are going to do and when. Unfortunately there's a severe flaw with this logic in that you need to actually know something about what you are planning out to do the planning. Thus my first recommendation is iterative mapping:
+Pretty much Every Source on compressed learning Isolates out that you need to map, reduce to unique+important values, build 
+resources, make projections, and set goals all based on the mapping that you did. Basically know what you are going to do 
+and when. Unfortunately there's a severe flaw with this logic in that you need to actually know something about what you are
+planning out to do the planning. Thus the recommended path is iterative mapping:
  			
 
 														*/
@@ -118,9 +120,8 @@ Step #3 to Step #5- Once you are proficient, work on getting really good at it
 I also recommend doubling back on each iteration and touching up with anything you might need more time on. Its a really good time to harden any knowledge that you might want to. The following are some techniques for use with iterative mapping:
 
 
-
 /********************
-map
+How to map
 ********************//*
 
 
@@ -135,15 +136,17 @@ reduce
 ********************//*
 
 the minimum you can get away with doing
-Selecting 80/20 power rules (which are BS)
-the other thing is attrition and turnover/ failure rates
-Selection
+the other thing is attrition and turnover/ what will cause failure rates to grow
+What do other people that have done this before recommend (try for people two levels ahead of you)
 Tom Peters - Do not do list
 
 /********************
 Make Decisions 
 ********************//*
 
+The fun factor => Teaching cold calling. make the first 10 calls a company that you would really like to work for. No script
+Selecting 80/20 power rules (which are BS)
+Selection
 
 /********************
 make projections
@@ -172,8 +175,7 @@ Internet
 /********************
 Compliance
 ********************//*		
-
-Motivation
+Motivation => 
 "Stakes"
 Dropouts	
 
@@ -183,10 +185,28 @@ Dropouts
 		
 		
 /********************
-techniques
+Recap of techniques
 ********************/	
 
 
+
+
+
+
+/***********************************************************************
+ Motivation- the special sauce no one talks about but changes everything
+************************************************************************//*
+
+
+/********************
+Intro
+********************//*
+
+It seems very odd to me that 
+
+Stress Cycle and Learning Curve Modeling
+
+Being Real
 
 	
 	

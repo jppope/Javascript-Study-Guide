@@ -39,3 +39,11 @@ studyActivities.julyFive = {"durationHours":1, "topic": ["treehouse, finished ar
 studyActivities.julySix = {"durationHours":1.5, "topic": ["treehouse jquery", "text Effects"]};
 studyActivities.julySeven = {"durationHours":1.5, "topic": ["setting up Webstorm- that counts right?", "milage log- should be finished by now..."]};
 studyActivities.julyEight = {"durationHours":1, "topic": ["milage log- refactored stuff","Treehouse Jquery"]};
+studyActivities.julyNine = {"durationHours":2, "topic": ["put up NurseryRhymes"]};
+studyActivities.julyTen = {"durationHours":3, "topic": ["Mileage Log MVP is completed- need to refactor, and add features"]};
+
+
+
+
+
+
