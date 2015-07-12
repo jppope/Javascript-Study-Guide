@@ -41,6 +41,8 @@ studyActivities.julySeven = {"durationHours":1.5, "topic": ["setting up Webstorm
 studyActivities.julyEight = {"durationHours":1, "topic": ["milage log- refactored stuff","Treehouse Jquery"]};
 studyActivities.julyNine = {"durationHours":2, "topic": ["put up NurseryRhymes"]};
 studyActivities.julyTen = {"durationHours":3, "topic": ["Mileage Log MVP is completed- need to refactor, and add features"]};
+studyActivities.julyEleven = {"durationHours":0.5, "topic": ["short day after yesterday- just working on matrix concept"]};
+
 
 
 
