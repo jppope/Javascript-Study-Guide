@@ -44,7 +44,7 @@ studyActivities.julyTen = {"durationHours":3, "topic": ["Mileage Log MVP is comp
 studyActivities.julyEleven = {"durationHours":0.5, "topic": ["short day after yesterday- just working on matrix concept"]};
 studyActivities.julyTwelve = {"durationHours":0.5, "topic": ["treehouse jquery"]};
 studyActivities.julyThirteen = {"durationHours":0.5, "topic": ["treehouse jquery- pretty lame go at it today :("]};
-
+studyActivities.julyThirteen = {"durationHours":0.5, "topic": ["treehouse jquery, mobile nav", "jquery practice"]};
 
 
 
