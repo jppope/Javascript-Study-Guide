@@ -13,9 +13,12 @@ Other Contributions: Steve House, PIETER GYSELINCK, ANTONIN JANUSKA, Nick Edward
 ********************/
 
 
-Map Reduce
+Intro
+
+1 Map Reduce
 
 mapping & iterative mapping (SMART) I like cycles of three.
+
 building resources & iterative resource building
 	materials
 	mentors
@@ -27,6 +30,7 @@ motivation
 Stress Cycle and Learning Curve Modeling
 Being Real
 
+2. Motivation
 
 Practice and Advancing
 Material- lots of examples, quick feedback loops
@@ -43,20 +47,47 @@ Higher Retention Memory
 Grinding Problems
 Debugging Memory Errors
 
+3
+Performance
 
+4
 Building Insight
 	narrowing Gaps between connections
 	creating knowledge webs
 	searching for the infrequently discussed amoung top performers
+	Teaching
 	
-
+5
 Not to do (things that will keep you from learning)
 	distractions
 	Balancing real world obligations and the things I want to learn. 
 	
+6 recap/ summary of Techniques
+	
+
+/***********************************************************************
+ 1. Motivation- the special sauce no one talks about but changes everything
+************************************************************************//*
 
 
 /********************
+1. Motivation
+	1.1 Intro
+********************//*
+
+It all starts with why you are doing it... I actually didn't start with this. If you are already motivated, skip this section and come back to it. 
+
+It seems very odd to me that 
+
+Stress Cycle and Learning Curve Modeling
+
+Being Real
+
+	
+	
+
+/********************
+ 2.0
  The Big Lie
 ********************//*	
 
@@ -78,13 +109,16 @@ more efficient but less frequently used on a specific topic.
 It's important that you don't get discouraged or demotivated. You may try and learn something in 6 months, but if it 
 takes you eight, thats okay. These systems are just supposed to help you learn more and learn faster- I make no claim 
 as to if this is the correct way to do things it is just a way to do things. As I have been frequently reminded the 
-destination is the journey.*/
+destination is the journey.
+	
+TODO:	
+Theres a second half of this... kids are different than adults. (no kidding right?). Theres some things worth noting about it though... mental placticity is the only thing that's really a big deal. Yes there are critical time periods for learning language and other skills. It is very important 
 	
 	
 	
-	
-/******************************
-1. Map Reduce- Planning your work
+*//******************************
+2.0 Planning Your Work
+	1.1 Map Reduce- Planning your work
 *******************************//*	
 	
 Intro:
@@ -97,9 +131,10 @@ planning out to do the planning. Thus the recommended path is iterative mapping:
 
 														*/
 
-/********************
-Iterative Mapping
-********************//*	
+/************************
+2. Planning Your Work
+	1.2 Iterative Mapping
+**************************//*	
 
 Iterative mapping is exactly what it sounds like... do not map everything all at once. Depending on subject complexity 
 map out your activities in 3-5 iterations. 
@@ -121,7 +156,8 @@ I also recommend doubling back on each iteration and touching up with anything y
 
 
 /********************
-How to map
+2. Planning Your Work
+	1.3 How to map
 ********************//*
 
 
@@ -132,7 +168,8 @@ Simplification - not just an Apple sales technique
 
 
 /********************
-reduce
+2. Planning Your Work
+	1.4 reduce
 ********************//*
 
 the minimum you can get away with doing
@@ -141,7 +178,8 @@ What do other people that have done this before recommend (try for people two le
 Tom Peters - Do not do list
 
 /********************
-Make Decisions 
+2. Planning Your Work
+	1.5 Make Decisions 
 ********************//*
 
 The fun factor => Teaching cold calling. make the first 10 calls a company that you would really like to work for. No script
@@ -149,7 +187,8 @@ Selecting 80/20 power rules (which are BS)
 Selection
 
 /********************
-make projections
+2. Planning Your Work
+	1.6 make projections
 ********************//*
 	
 SMART GOALS
@@ -159,7 +198,8 @@ Stress Cycle and Learning Curve Modeling
 
 
 /********************
-build resources, 
+2. Planning Your Work
+	1.7 build resources, 
 ********************//*	
 
 materials
@@ -173,7 +213,8 @@ Internet
 
 				
 /********************
-Compliance
+2. Planning Your Work
+	1.8 Compliance
 ********************//*		
 Motivation => 
 "Stakes"
@@ -185,7 +226,8 @@ Dropouts
 		
 		
 /********************
-Recap of techniques
+2. Planning Your Work
+	1.9 Recap of techniques
 ********************/	
 
 
@@ -193,20 +235,29 @@ Recap of techniques
 
 
 
-/***********************************************************************
- Motivation- the special sauce no one talks about but changes everything
-************************************************************************//*
 
 
-/********************
-Intro
-********************//*
+/**************************
+ 3.0 Allen Iverson's section
+***************************//*	
 
-It seems very odd to me that 
+/**************************
+ 4.0 Performance
+***************************//*	
 
-Stress Cycle and Learning Curve Modeling
+/**************************
+ 5.0 Insight
+***************************//*	
 
-Being Real
+/**************************
+ 6.0 the Tom Peters list
+***************************//*		
+
+/***********************************
+ 7.0 Recap/ summary of techniques
+***********************************//*	
+	
+
 
 	
 	
