@@ -50,7 +50,7 @@ studyActivities.julySixteen = {"durationHours":1.5, "topic": ["Appcellerator", "
 studyActivities.julyEighteen = {"durationHours":1, "topic": ["reading Async Javascript on plane"]};
 /*gone to mexico*/
 studyActivities.julyTwentySeven = {"durationHours":2, "topic": ["working on babyCRM"]};
-
+studyActivities.julyTwentyEight = {"durationHours":2, "topic": ["working on babyCRM > hopefully I'll push something today"]};
 
 
 
