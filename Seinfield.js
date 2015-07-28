@@ -48,6 +48,9 @@ studyActivities.julyThirteen = {"durationHours":0.5, "topic": ["treehouse jquery
 studyActivities.julyFifteen = {"durationHours":1, "topic": ["treehouse jquery-form auth ", "GRE study guide"]};
 studyActivities.julySixteen = {"durationHours":1.5, "topic": ["Appcellerator", "jquery treehouse"]};
 studyActivities.julyEighteen = {"durationHours":1, "topic": ["reading Async Javascript on plane"]};
+/*gone to mexico*/
+studyActivities.julyTwentySeven = {"durationHours":2, "topic": ["working on babyCRM"]};
+
 
 
 
