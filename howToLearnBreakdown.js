@@ -160,12 +160,16 @@ I also recommend doubling back on each iteration and touching up with anything y
 	1.3 How to map
 ********************//*
 
+There are a series of techniques that can be used to plan out your activities, I'll outline a couple here: 
+
+1) 
+
 
 Skim- Libraries used to be great for this
 Tony Robbins Method- ask 5 world experts
 Simplification - not just an Apple sales technique
 
-
+Question: how does rote play into this
 
 /********************
 2. Planning Your Work
@@ -225,10 +229,10 @@ Dropouts
 **/
 		
 		
-/********************
+/***************************
 2. Planning Your Work
 	1.9 Recap of techniques
-********************/	
+****************************/	
 
 
 
@@ -240,6 +244,12 @@ Dropouts
 /**************************
  3.0 Allen Iverson's section
 ***************************//*	
+
+Rote learning
+
+
+
+
 
 /**************************
  4.0 Performance
