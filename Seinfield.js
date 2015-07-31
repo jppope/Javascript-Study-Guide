@@ -52,8 +52,8 @@ studyActivities.julyEighteen = {"durationHours":1, "topic": ["reading Async Java
 studyActivities.julyTwentySeven = {"durationHours":2, "topic": ["working on babyCRM"]};
 studyActivities.julyTwentyEight = {"durationHours":2, "topic": ["working on babyCRM > hopefully I'll push something today"]};
 studyActivities.julyTwentyNine = {"durationHours":1, "topic": ["working on babyCRM"]};
-studyActivities.julyTwentyNine = {"durationHours":1, "topic": ["babyCRM working on Update portion", "added to How to learn"]};
-
+studyActivities.julyThirty = {"durationHours":1, "topic": ["babyCRM working on Update portion", "added to How to learn", "worked on Typescript"]};
+studyActivities.julyThirtyOne = {"durationHours":1, "topic": ["Treehouse Jquery"]};
 
 
 
