@@ -54,9 +54,9 @@ studyActivities.julyTwentyEight = {"durationHours":2, "topic": ["working on baby
 studyActivities.julyTwentyNine = {"durationHours":1, "topic": ["working on babyCRM"]};
 studyActivities.julyThirty = {"durationHours":1, "topic": ["babyCRM working on Update portion", "added to How to learn", "worked on Typescript"]};
 studyActivities.julyThirtyOne = {"durationHours":1, "topic": ["Treehouse Jquery"]};
+studyActivities.AugustOne = {"durationHours":1, "topic": ["finished Treehouse Jquery login form"]};
 
-
-
+https://github.com/jppope/babyCRM.git
 
 
 
