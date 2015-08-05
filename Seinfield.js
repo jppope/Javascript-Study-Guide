@@ -57,6 +57,7 @@ studyActivities.julyThirtyOne = {"durationHours":1, "topic": ["Treehouse Jquery"
 studyActivities.AugustOne = {"durationHours":1, "topic": ["finished Treehouse Jquery login form"]};
 studyActivities.AugustThree = {"durationHours":1, "topic": ["Nightmarejs Scraping"]};
 studyActivities.AugustFour = {"durationHours":2, "topic": ["Nightmarejs Scraping", "jquery on treehouse"]};
+studyActivities.AugustFive = {"durationHours":4, "topic": ["Nightmarejs Scraping- did like 5 hours last night with steve"]};
 
 
 
