@@ -60,6 +60,7 @@ studyActivities.AugustFour = {"durationHours":2, "topic": ["Nightmarejs Scraping
 studyActivities.AugustFive = {"durationHours":4, "topic": ["Nightmarejs Scraping- did like 5 hours last night with steve"]};
 studyActivities.AugustSix = {"durationHours":0.5, "topic": ["bad day- did about 30 min on lat long square, lame"]};
 studyActivities.AugustSeven = {"durationHours":1, "topic": ["Calculus? Yea scared me too", "added a little to how to learn"]};
+studyActivities.AugustSeven = {"durationHours":1, "topic": ["Design work", "lat long javascript"]};
 
 
 
