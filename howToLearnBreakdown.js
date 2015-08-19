@@ -91,6 +91,7 @@ Being Real
  The Big Lie
 ********************//*	
 
+https://www.youtube.com/watch?v=v0TFmdO4ZP0
 	
 I want to start by identifying the biggiest lie that I came across when researching compressed learning:  
 
