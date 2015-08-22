@@ -68,6 +68,7 @@ studyActivities.AugustSixteen = {"durationHours":0.5, "topic": ["worked on a php
 studyActivities.AugustEighteen = {"durationHours":0.5, "topic": ["Serialize data project for tracking myself"]};
 studyActivities.AugustEighteen = {"durationHours":2, "topic": ["Serialize data project for tracking myself"]};
 studyActivities.AugustTwenty = {"durationHours":1, "topic": ["npm basics on treehouse"]};
+studyActivities.AugustTwentyOne = {"durationHours":1, "topic": ["Watched Debugging video"]};
 
 
 
