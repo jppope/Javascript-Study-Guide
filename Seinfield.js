@@ -69,7 +69,7 @@ studyActivities.AugustEighteen = {"durationHours":0.5, "topic": ["Serialize data
 studyActivities.AugustEighteen = {"durationHours":2, "topic": ["Serialize data project for tracking myself"]};
 studyActivities.AugustTwenty = {"durationHours":1, "topic": ["npm basics on treehouse"]};
 studyActivities.AugustTwentyOne = {"durationHours":1, "topic": ["Watched Debugging video"]};
-
+studyActivities.AugustTwentyTwo = {"durationHours":2, "topic": ["babyCRM work", "nightmare scrapping keyword tool"]};
 
 
 
