@@ -71,7 +71,7 @@ studyActivities.AugustTwenty = {"durationHours":1, "topic": ["npm basics on tree
 studyActivities.AugustTwentyOne = {"durationHours":1, "topic": ["Watched Debugging video"]};
 studyActivities.AugustTwentyTwo = {"durationHours":2, "topic": ["babyCRM work", "nightmare scrapping keyword tool"]};
 studyActivities.AugustTwentyFour = {"durationHours":2, "topic": ["Treehouse: Nodejs", "natural languange processing", "jquery"]};
-
+studyActivities.AugustTwentyFour = {"durationHours":6, "topic": ["jquery lesson of a lifetime- terrible fucking coding"]};
 
 
 
