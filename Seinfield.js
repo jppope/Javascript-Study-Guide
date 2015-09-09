@@ -76,7 +76,8 @@ studyActivities.AugustTwentyFour = {"durationHours":3, "topic": ["Quack and Hack
 studyActivities.SeptemberOne = {"durationHours":1, "topic":["treehouse nodejs basics"]};
 studyActivities.SeptemberTwo = { "durationHours":1, "topic": "lots of nodejs"}
 studyActivities.September5 = { "durationHours":4, "topic": "forgot to add everything... tons of work in the last 3 days"}
-studyActivities.September5 = { "durationHours":8, "topic": "all day doing work on Web design Businesses"}
+studyActivities.September6 = { "durationHours":8, "topic": "all day doing work on Web design Businesses"}
+studyActivities.September8 = { "durationHours":.15, "topic": "Web design Businesses"}
 
 
 
