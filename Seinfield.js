@@ -79,5 +79,7 @@ studyActivities.September5 = { "durationHours":4, "topic": "forgot to add everyt
 studyActivities.September6 = { "durationHours":8, "topic": "all day doing work on Web design Businesses"}
 studyActivities.September8 = { "durationHours":.15, "topic": "Web design Businesses"}
 studyActivities.September9 = { "durationHours":2, "topic": "finished jquery basics"}
+studyActivities.September11 = { "durationHours":1, "topic": "Treehouse work and webdesignbusinesses"}
+
 
 
