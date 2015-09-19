@@ -83,6 +83,8 @@ studyActivities.September11 = { "durationHours":1, "topic": "Treehouse work and 
 studyActivities.September11 = { "durationHours":1, "topic": "worked on design"}
 studyActivities.September11 = { "durationHours":1, "topic": "did vanilla javascript on treehouse"}
 studyActivities.September17 = { "durationHours":1, "topic": "webdesign businesses"}
+studyActivities.September18 = { "durationHours":1, "topic": "javascript on treehouse"}
+
 
 
 
