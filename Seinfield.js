@@ -86,7 +86,9 @@ studyActivities.September17 = { "durationHours":1, "topic": "webdesign businesse
 studyActivities.September18 = { "durationHours":1, "topic": "javascript on treehouse"}
 studyActivities.September25 = { "durationHours":1, "topic": "practiced for interview"}
 
+//back from vacation
 
+{"date": "Sat Oct 03 2015 12:04:30 GMT-0700 (PDT)", "hours":2, "topic":"adding examples to nightmare.js"}
 
 
 
