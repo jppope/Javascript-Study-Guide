@@ -84,11 +84,10 @@ studyActivities.September11 = { "durationHours":1, "topic": "worked on design"}
 studyActivities.September11 = { "durationHours":1, "topic": "did vanilla javascript on treehouse"}
 studyActivities.September17 = { "durationHours":1, "topic": "webdesign businesses"}
 studyActivities.September18 = { "durationHours":1, "topic": "javascript on treehouse"}
-studyActivities.September25 = { "durationHours":1, "topic": "practiced for interview"}
+{"date": "Wed 25 Sep 2015 00:00:00 GMT GMT-0700 (PDT)", "durationHours":1, "topic": "practiced for interview"}
 
-//back from vacation
-
-{"date": "Sat Oct 03 2015 12:04:30 GMT-0700 (PDT)", "hours":2, "topic":"adding examples to nightmare.js"}
+{"date": "Sat Oct 03 2015 12:04:30 GMT-0700 (PDT)", "hours":2, "topic":"adding examples to nightmare.js"},
+{"date": "Sat Oct 03 2015 12:04:30 GMT-0700 (PDT)", "hours":2, "topic":"messed with laravel... does that count?"}
 
 
 
