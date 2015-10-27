@@ -91,7 +91,7 @@ studyActivities.September18 = { "durationHours":1, "topic": "javascript on treeh
 {"date": "Wed Oct 14 2015 12:04:30 GMT-0700 (PDT)", "hours":2, "topic":"I spent a terrible terrible time working on Dev Ops"}
 {"date": "thur Oct 15 2015 12:04:30 GMT-0700 (PDT)", "hours":6, "topic":"I spent a terrible terrible time working on Dev Ops"}
 {"date": "Sun Oct 25 2015 12:04:30 GMT-0700 (PDT)", "hours":.5, "topic":"writing nightmare examples for adding to the docs"}
-
+{"date": "Mon Oct 26 2015 12:04:30 GMT-0700 (PDT)", "hours":.5, "topic":"Nightmare + Laravel"}
 
 
 
