@@ -84,18 +84,19 @@ studyActivities.September11 = { "durationHours":1, "topic": "worked on design"}
 studyActivities.September11 = { "durationHours":1, "topic": "did vanilla javascript on treehouse"}
 studyActivities.September17 = { "durationHours":1, "topic": "webdesign businesses"}
 studyActivities.September18 = { "durationHours":1, "topic": "javascript on treehouse"}
-{"date": "Wed 25 Sep 2015 00:00:00 GMT GMT-0700 (PDT)", "durationHours":1, "topic": "practiced for interview"}
 
+{"date": "Wed 25 Sep 2015 00:00:00 GMT GMT-0700 (PDT)", "durationHours":1, "topic": "practiced for interview"}
 {"date": "Sat Oct 03 2015 12:04:30 GMT-0700 (PDT)", "hours":2, "topic":"adding examples to nightmare.js"},
 {"date": "Sat Oct 03 2015 12:04:30 GMT-0700 (PDT)", "hours":2, "topic":"messed with laravel... does that count?"},
 {"date": "Wed Oct 14 2015 12:04:30 GMT-0700 (PDT)", "hours":2, "topic":"I spent a terrible terrible time working on Dev Ops"},
-{"date": "thur Oct 15 2015 12:04:30 GMT-0700 (PDT)", "hours":6, "topic":"I spent a terrible terrible time working on Dev Ops"},
+{"date": "thu Oct 15 2015 12:04:30 GMT-0700 (PDT)", "hours":6, "topic":"I spent a terrible terrible time working on Dev Ops"},
 {"date": "Sun Oct 25 2015 12:04:30 GMT-0700 (PDT)", "hours":.5, "topic":"writing nightmare examples for adding to the docs"},
 {"date": "Mon Oct 26 2015 12:04:30 GMT-0700 (PDT)", "hours":.5, "topic":"Nightmare + Laravel"},
-{"date": "tues Oct 26 2015 12:04:30 GMT-0700 (PDT)", "hours":2, "topic":"Nightmare + Laravel"},
-{"date": "tues Oct 26 2015 12:04:30 GMT-0700 (PDT)", "hours":2, "topic":"Nightmare robots.txt + Laravel"}
-{"date": "Thu Oct 29 2015 23:11:51 GMT-0700 (PDT)}" "hours":.5, "topic":"javascript basics"}
-{"date": "Sun Nov 1 2015 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"laravel"}
+{"date": "tue Oct 26 2015 12:04:30 GMT-0700 (PDT)", "hours":2, "topic":"Nightmare + Laravel"},
+{"date": "tue Oct 26 2015 12:04:30 GMT-0700 (PDT)", "hours":2, "topic":"Nightmare robots.txt + Laravel"},
+{"date": "Thu Oct 29 2015 23:11:51 GMT-0700 (PDT)}" "hours":.5, "topic":"javascript basics"},
+{"date": "Sun Nov 1 2015 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"laravel"},
+{"date": "Mon Nov 2 2015 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"laravel + nightmare"},
 
 
 
