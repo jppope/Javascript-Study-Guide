@@ -100,8 +100,8 @@ studyActivities.September18 = { "durationHours":1, "topic": "javascript on treeh
 {"date": "thu Nov 5 2015 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"laravel"},
 {"date": "tue Nov 10 2015 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"laravel"},
 {"date": "wed Nov 11 2015 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"laravel models"},
-{"date": "wed Nov 12 2015 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"laravel models"},
-
+{"date": "thu Nov 12 2015 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"laravel models"},
+{"date": "fri Nov 13 2015 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"laravel todo"},
 
 
 
