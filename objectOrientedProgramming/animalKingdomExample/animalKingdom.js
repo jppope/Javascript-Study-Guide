@@ -2,19 +2,23 @@
 *	This is an example of class
 */
 
-
-class animal {
-  constructor(numCells,backbone) {
-    this.numCells = numCells;
-    this.backbone = backbone;
-  }
-}
-
-var vertibrate = new animal("many",true);
-var invertibrate = new animal("many",false);
-
-console.log(invertibrate);
+'use strict'
 
 
-
-
+class breakfast {
+        constructor(protein) {
+            this.protein = protein;
+        }
+        static staticMethod() {
+            return console.log('classy');
+        }
+        prototypeMethod() {
+	        let something = 500000 * 500000
+            return console.log(something);
+        }
+    }
+    let eggs = new breakfast("Eggs");
+    
+    //console.log(eggs); 
+    //eggs.prototypeMethod()
+	console.log(eggs);
