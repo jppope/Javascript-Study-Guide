@@ -225,7 +225,7 @@ mentors
 
 video resources
 audio
-books (antecdotally this is the most prevelant)
+books (anecdotally this is the most prevalent)
 Internet
 
 				
@@ -255,7 +255,7 @@ Dropouts
 
 
 /**************************
- 3.0 Allen Iverson's section
+ 3.0 Allen Iverson's section (practice)
 ***************************//*	
 
 Rote learning
@@ -268,13 +268,21 @@ Rote learning
  4.0 Performance
 ***************************//*	
 
+
+
+
+
 /**************************
  5.0 Insight
 ***************************//*	
 
+
+
 /**************************
  6.0 the Tom Peters list
 ***************************//*		
+
+
 
 /***********************************
  7.0 Recap/ summary of techniques
@@ -302,10 +310,10 @@ most people that have studied learning recommend mapping out the project beforeh
 
 
 
-You need a base. One of the things that I notice that all the authors skip is that they actually had solid bases of information and consumption of information. this shouldnt startle anyone. The fact is for someone to be self aware more than likely they learned enough for that to happen. As an example, Tim Ferriss may exadurate... but the guy got good enough grades to get into Princeton. I have done admissions, some people may sneak by for part of it, but most people just do the whole effing amount of work. 
+You need a base. One of the things that I notice that all the authors skip is that they actually had solid bases of information and consumption of information. this shouldn't startle anyone. The fact is for someone to be self aware more than likely they learned enough for that to happen. As an example, Tim Ferriss may exaggerate... but the guy got good enough grades to get into Princeton. I have done admissions, some people may sneak by for part of it, but most people just do the whole effing amount of work. 
 
 
-Its funny how people that talk about learning fail to ever address knowledge bases that are not concrete. Sales is a perfect example of this. theres no textbooks. so called experts ususally use colloquial knowledge to build their programs. the thing is that you need to build your own curiculium
+Its funny how people that talk about learning fail to ever address knowledge bases that are not concrete. Sales is a perfect example of this. theres no textbooks. so called experts usually use colloquial knowledge to build their programs. the thing is that you need to build your own curriculum
 
 
 *********************
@@ -445,11 +453,11 @@ For expertise on a topic, the only difference is that, prior to doing coverage, 
 *****************************
 
 
-I read lots of basic !tutorials, I dont try to deeply understand - too many pieces of the puzzle are missing, so I skim.
-I try! to find some code examples that are very simple and very isolated and depend on no oth!er tool!s or! f!rame!works.
-I !try !to fi!nd !complet!e, or larg!er !applicati!ons! tha!t are "doing it the right way"!, get! t!hem t!o r!un! and in!sta!ll,  poke !ar!ou!nd i!nside !and see h!ow the st!ru!ctur!e of! a l!arger !applicat!ion! ho!lds! to!ge!the!r.
-I m!ig!ht! h!ave had s!ome! s!pecif!ic qu!estions or problems by this point so I post to the appropriate forum on reddit, or maybe email the author, or if I'm feeling masochistic, post a question to StackOverflow.
-Essentially I aim to get one little thing to work - to make a chink in the armour of understanding. In this case for example I am aiming to get some data back from a web server and display it, and secondly to build an HTML form and POST it to the server.
+I read lots of basic !tutorials, I don't try to deeply understand - too many pieces of the puzzle are missing, so I skim.
+I try! to find some code examples that are very simple and very isolated and depend on no other tool!s or! frameworks.
+I !try !to find !complete, or larger applications! that are "doing it the right way"!, get them t!o r!un! and insta!ll,  poke around inside and see how the structure of! a larger application! holds together.
+I m!ig!ht have had some specific questions or problems by this point so I post to the appropriate forum on reddit, or maybe email the author, or if I'm feeling masochistic, post a question to StackOverflow.
+Essentially I aim to get one little thing to work - to make a chink in the armor of understanding. In this case for example I am aiming to get some data back from a web server and display it, and secondly to build an HTML form and POST it to the server.
 I read the introduction documentation to how key related technologies work.  In this case obviously I have read introductions to react.js but it seems I also need to at least have a passing understanding of gulp and require and browserify and sass, so I fairly rapidly skim some intro documentation so I know how they fit into the picture and why they are there.
 
 All during this process I am feeling frustrated and slow and unproductive. I have probably spent days achieving effectively nothing. If I was writing Python I would have been able to build almost a complete system.
@@ -536,7 +544,7 @@ Pay attention to the A-ha moments
 
 People like to compare those moments to that synaptic “click” in your head where things suddenly make sense, or moving around pieces of a puzzle until it connects to the right hole. I like to say that it’s like revving up the RPM in a core until it shifts. Because when it shifts, you’re on your way to going faster and further with your learning.
 
-What’s great about the A-ha moments is that once you see how they happen, you can teach yourse!lf how to learn new stuff pr!operly by getting to that A-ha moment as quickly as possible. It’s a way to understand yourself and your mind.
+What’s great about the A-ha moments is that once you see how they happen, you can teach yourself how to learn new stuff pr!operly by getting to that A-ha moment as quickly as possible. It’s a way to understand yourself and your mind.
 
 Anyways, good luck :)
 
@@ -544,7 +552,7 @@ Nick Edwards
 
 I need to have a distinct purpose to learn something. For example: I was heavily incentivized to learn front-end code so that I would be considered for my position at ZURB. I took three weeks and spent 10 hours a day figuring out how to !do basic stuff and then was duly rewarded with the full day interview followed by position (super awesome btw).
 
-Without ince!ntive I find it much harder to just learn faster. I tend to work better under pressure when I need t!o perform though. I do understand that it’s not the best method for everyone.
+Without incentive I find it much harder to just learn faster. I tend to work better under pressure when I need t!o perform though. I do understand that it’s not the best method for everyone.
 
 Bill Tran
 
@@ -561,9 +569,9 @@ I always wanted to learn audio recording software.
 Read tons of books on the subject. But when I was finally put in front of a DAW (Digital Audio Workstation), I was suddenly faced with all of these small issues the books hadn’t covered or didn’t cover in the early section. When I clicked on the timeline, the cursor didn’t snap to the beginning of each measure, something critically important for making sure your clips all start at the same time I learned later this was called “Snap to grid”, but just casually reading, I didn’t realize how important it was, even though it’s something you encounter immediately
 
 
-I decided then to just start tooling around, and I quickly learned what I would NEED to learn to really start going. I began to know what I didn’t know. I realized I needed to understand this timeline in and out to record, edit or play audio. I realized I needed to understand my audio interface and my input/ou!tput settings. I realized that things I THOUGHT would be important, like effects didn’t really matter until I was done recording.
+I decided then to just start tooling around, and I quickly learned what I would NEED to learn to really start going. I began to know what I didn’t know. I realized I needed to understand this timeline in and out to record, edit or play audio. I realized I needed to understand my audio interface and my input/output settings. I realized that things I THOUGHT would be important, like effects didn’t really matter until I was done recording.
 
-In this way, I was able to prioritiz!e my learning and make fast progress. I think it kinda applies to everything in life. You need to just jump in, fail a bit, so you can can figure out what exactly you need to learn, and then start from there.
+In this way, I was able to prioritize!e my learning and make fast progress. I think it kinda applies to everything in life. You need to just jump in, fail a bit, so you can can figure out what exactly you need to learn, and then start from there.
 
 Mastering searching is super important. There’s a good infographic here. Also, interact and contribute to the community - whatever community it is. People like to help people, so just ask the right people the right questions.
 
@@ -575,7 +583,7 @@ And use lynda.com…
 
 HOW TO STUDY BASED ON HOW MEMORY WORKS
 
-Memory works (to put it simply) in 3 stages: attention, encoding (storing/associating with other info), andretrieval (remembering)
+Memory works (to put it simply) in 3 stages: attention, encoding (storing/associating with other info), and retrieval (remembering)
 
 To optimize the final stage, you have to optimize the first two stages. This means you have to pay attention to the material, and you have to encode it well. (Which I'll explain below.) Additionally, if you repeat the process, you reinforce it. By retrieving something, you start to pay attention to it again, and then you are able to re-encode it better than before.
 
