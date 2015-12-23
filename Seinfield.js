@@ -108,6 +108,7 @@ studyActivities.September18 = { "durationHours":1, "topic": "javascript on treeh
 {"date": "sun dec 6 2015 23:11:51 GMT-0700 (PDT)}" "hours":.5, "topic":"misc opensource tools etc"},
 {"date": "sun dec 6 2015 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"tons and tons of Laravel"},
 {"date": "tues dec 15 2015 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"laravel up to the top of my head"},
+{"date": "tues dec 22 2015 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"D3.js"},
 
 
 
