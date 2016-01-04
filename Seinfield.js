@@ -111,6 +111,7 @@ studyActivities.September18 = { "durationHours":1, "topic": "javascript on treeh
 {"date": "tues dec 22 2015 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"D3.js"},
 {"date": "sun dec 27 2015 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"theAcademy development"},
 {"date": "mon dec 28 2015 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"d3js"},
+{"date": "mon dec 28 2015 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"various"},
 
 
 
