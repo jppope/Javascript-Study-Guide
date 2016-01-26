@@ -120,6 +120,7 @@ studyActivities.September18 = { "durationHours":1, "topic": "javascript on treeh
 {"date": "thurs jan 21 2015 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"Laravel training"},
 {"date": "friday jan 22 2015 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"Laravel & js for larachats guy"},
 {"date": "sunday jan 24 2015 23:11:51 GMT-0700 (PDT)}" "hours":.5, "topic":"did shanes tip calculator"},
+{"date": "Monday jan 25 2015 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"Laravel Elixir, Js code challenges"},
 
 
 
