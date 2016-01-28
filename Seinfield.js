@@ -113,14 +113,15 @@ studyActivities.September18 = { "durationHours":1, "topic": "javascript on treeh
 {"date": "mon dec 28 2015 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"d3js"},
 {"date": "mon dec 28 2015 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"various"},
 {"date": "sun jan 11 2015 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"pjax"},
-{"date": "sun jan 17 2015 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"theAcademy!"},
-{"date": "mon jan 18 2015 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"Laravel training"},
-{"date": "tues jan 19 2015 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"Laravel training"},
-{"date": "wed jan 20 2015 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"Laravel training and theAcademy"},
-{"date": "thurs jan 21 2015 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"Laravel training"},
-{"date": "friday jan 22 2015 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"Laravel & js for larachats guy"},
-{"date": "sunday jan 24 2015 23:11:51 GMT-0700 (PDT)}" "hours":.5, "topic":"did shanes tip calculator"},
-{"date": "Monday jan 25 2015 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"Laravel Elixir, Js code challenges"},
+{"date": "sun jan 17 2016 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"theAcademy!"},
+{"date": "mon jan 18 2016 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"Laravel training"},
+{"date": "tues jan 19 2016 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"Laravel training"},
+{"date": "wed jan 20 2016 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"Laravel training and theAcademy"},
+{"date": "thurs jan 21 2016 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"Laravel training"},
+{"date": "friday jan 22 2016 23:11:51 GMT-0700 (PDT)}" "hours":2, "topic":"Laravel & js for larachats guy"},
+{"date": "sunday jan 24 2016 23:11:51 GMT-0700 (PDT)}" "hours":.5, "topic":"did shanes tip calculator"},
+{"date": "Monday jan 25 2016 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"Laravel Elixir, Js code challenges"},
+{"date": "Wed jan 27 2016 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"Laravel TPS report"},
 
 
 
