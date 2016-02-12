@@ -125,6 +125,8 @@ studyActivities.September18 = { "durationHours":1, "topic": "javascript on treeh
 {"date": "Mon Feb 1 2016 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"Laravel TPS report!"},
 {"date": "Mon Feb 2 2016 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"Laravel project flyer!"},
 {"date": "Mon Feb 2 2016 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"Server stuff"},
+{"date": "Thurs Feb 11 2016 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"Mongoosejs and MongoDB"},
+
 
 
 
