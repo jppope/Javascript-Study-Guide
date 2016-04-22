@@ -130,6 +130,8 @@ studyActivities.September18 = { "durationHours":1, "topic": "javascript on treeh
 {"date": "April 16 2016 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"ACL Laravel, authentication"},
 {"date": "April 17 2016 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"ACL Laravel, laracast"},
 {"date": "April 19 2016 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"forgot to add today"},
+{"date": "April 20 2016 23:11:51 GMT-0700 (PDT)}" "hours":1, "topic":"laravel mail, ACL"},
+
 
 
 
