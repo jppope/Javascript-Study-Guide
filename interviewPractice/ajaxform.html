@@ -1,0 +1,93 @@
+
+
+<!doctype html>
+<html class="no-js" lang="en-us">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="#">
+		<!-- CSS files -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.0.1/css/foundation.min.css">      
+        <!-- /end CSS-->
+    </head>
+    <body>
+
+<div class="row">
+	<div class="columns medium-5 medium-offset-3"><br><br>
+		<form method="post" action="#" class="callout">
+			
+			<div class="row">
+				<div class="columns medium-6">
+					<label class="pull-right">Name</label>	
+				</div>	
+				<div class="columns medium-6">	
+					<input name="name"> 
+				</div>
+			</div>
+			<div class="row">			
+				<div class="columns medium-6">
+					<label class="pull-right">Phone</label>	
+				</div>
+				<div class="columns medium-6">
+					<input name="phone">	
+				</div>
+			</div>
+			<div class="row">
+				<div class="columns medium-6">
+					<label>Email</label>	
+				</div>
+				<div class="columns medium-6">
+					<input name="email">
+				</div>
+			</div>	
+			
+			<a id="form-submit" href="#" class="button pull-right">Submit</a>					
+			
+		</form>
+		</div>
+</div>
+
+
+
+
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation-essential/5.5.1/js/vendor/jquery.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.0.1/js/foundation.min.js"></script>
+
+<script>
+
+$('#form-submit').click(function(e){
+	console.log("working")
+	e.preventDefault();
+	var datas = {
+		name: $('input[name="name"]').val(),
+		phone:$('input[name="phone"]').val(),
+		email:$('input[name="email"]').val()
+	}
+	
+$.ajax({ url: "http://requestb.in/10utgkm1",
+	crossDomain: true, 
+	data: datas})
+  .done(function( data ) {
+    alert( "Data Loaded: " + data );
+  });
+  		
+  		
+  		
+});
+	
+
+
+
+
+</script>
+
+
+    </body>
+</html>
+
+
