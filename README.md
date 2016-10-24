@@ -8,7 +8,7 @@ So the basic track goes like this
 1. Study with free online courses
 2. Come back and review the following one by one
 
-** Part One **
+##  Part One
 *	variables
 *	objects
 *	built in functions
@@ -21,7 +21,7 @@ So the basic track goes like this
 *	request
 *	for/ foreach/ while
 
-** Part Two **
+##  Part Two 
 *	Debugging
 *	recursive functions
 *	callback functions
@@ -33,7 +33,7 @@ So the basic track goes like this
 *	map
 *	apply
 
-** Part Three **
+## Part Three 
 *	Inheritance 
 *	Polymorphism
 *	
