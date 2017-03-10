@@ -2,41 +2,64 @@
 a basic track for zero to hero in Javascript and full stack development
 
 
-So the basic track goes like this
+So the basic track goes like this:
 
+##  theBasics (see (Mezzofanti)[http://github.com/jppope/Mezzofanti] for core)
 
-1. Study with free online courses
-2. Come back and review the following one by one
-
-##  Part One
-*	variables
-*	objects
-*	built in functions
-*	Array manipulation
-*	use of “this"
-*	anonymous functions
-*	classes
-*	methods
+*	Comments
+*	Data types(undefined, null, boolean, string, number, symbol)
+* 	Variables & Contstants
+*	Objects (more in OO)
 *	logical operators
-*	request
-*	for/ foreach/ while
+*	functions
+*	Iteration => for/ foreach/ while
+*	use of “this"
 
-##  Part Two 
+
+## Common Language Interactions
+
+*	Traversing Data Structures (Array/JSON)
+*	anonymous functions
+*	Array manipulation
+*	Math
+*	Callbacks
+
+## Object Oriented Programming
+
+*	Overview
+*	Prototypal 
+*	Classical methods
+* 	Constructor Methods
+*	Classical
+*	Classical methods
+* 	Constructor Methods
+*	Inheritance 
+*	Polymorphism
+* 	Encapsulation
+
+
+##  Advanced Language Concepts 
 *	Debugging
 *	recursive functions
 *	callback functions
 *	call back hell/ promises
 *	Prototype
-*	Scope
-*	closures
+*	scope
+*	closures / lambdas
 *	bind
 *	map
+*	reduce
 *	apply
+*	XHR requests
 
-## Part Three 
-*	Inheritance 
-*	Polymorphism
-*	
+## Pure Functional Programming
+
+* Constructing a pure function
+
+## Event Driven Programming
+
+* 	iterator/ generator
+
 
 ** Then putting it into practice **
 underscores
@@ -49,7 +72,7 @@ Express
      routes
      http servers
 koa
-Angular
+Vuejs
 React
 Titanium
 Alloy
