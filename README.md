@@ -1,6 +1,9 @@
 # Javascript-Study-Guide
 a basic track for zero to hero in Javascript and full stack development
 
+> "The Way" => Fundamentals(...not covered here), Language, Tools, Design Patters, Architecture, Skills
+
+To become great: Solve problems well... in fact, solve them really well, be fast, teach others, 
 
 So the basic track goes like this:
 
@@ -16,7 +19,7 @@ So the basic track goes like this:
 *	use of “this"
 
 
-## Common Language Interactions
+## Normal Language Utilities
 
 *	Traversing Data Structures (Array/JSON)
 *	anonymous functions
