@@ -3,19 +3,18 @@
  */
 
 var animals = [
-	{"name":"jimmy", "species":"dog"},
-	{"name":"janet", "species":"cat"},
-	{"name":"jack", "species":"dog"},
-	{"name":"jeremy", "species":"cat"},
-	{"name":"james", "species":"turtle"},
+	{"name":"jimmy", "species":"dog", "cost": 15},
+	{"name":"janet", "species":"cat", "cost": 1},
+	{"name":"jack", "species":"dog", "cost": 15},
+	{"name":"jeremy", "species":"cat", "cost": 1},
+	{"name":"james", "species":"turtle", "cost": 10},
 ]
 
-var dogs = [];
 
-for(var i = 0; i < animals.length; i++){
-	if (animals[i].species != "dog"){
-		dogs.push(animals[i].name + " the " + animals[i].species);
-	}
+function priceEval(animal){
+	return animal.cost <= 10;
 }
 
-console.log(dogs);
+var expensiveAnimals = animals.filter(priceEval);
+
+console.log(expensiveAnimals);
