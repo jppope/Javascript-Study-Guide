@@ -2,19 +2,21 @@
  * this file is just to follow along
  */
 
-var animals = [
-	{"name":"jimmy", "species":"dog", "cost": 15},
-	{"name":"janet", "species":"cat", "cost": 1},
-	{"name":"jack", "species":"dog", "cost": 15},
-	{"name":"jeremy", "species":"cat", "cost": 1},
-	{"name":"james", "species":"turtle", "cost": 10},
+var tourney = [
+	{ "team": "Kansas", "wins": 3, "region": ""},
+	{ "team": "Duke", "wins": 0, "region": ""},
+	{ "team": "UCLA", "wins": 2, "region": ""},
+	{ "team": "North Carolina", "wins": 0, "region": ""},
+	{ "team": "Kentucky", "wins": 1, "region": ""},
+	{ "team": "West Virginia", "wins": 1, "region": ""},
+	{ "team": "Texas", "wins": 0, "region": ""},
+	{ "team": "Gonzaga", "wins": 0, "region": ""},
 ]
 
-
-function priceEval(animal){
-	return animal.cost <= 10;
+function elite8(team){
+	return team.wins >= 0;
 }
 
-var expensiveAnimals = animals.filter(priceEval);
-
-console.log(expensiveAnimals);
+function finalFour(team){
+	return team.wins > 0
+}
