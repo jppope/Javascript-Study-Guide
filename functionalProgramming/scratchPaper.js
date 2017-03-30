@@ -14,8 +14,6 @@ let cars = [
 
 var taxcredit = .80;
 
-let kinds = cars.map(function(car){
-	return car.price * taxcredit;
-});
+let kinds = cars.map((car) => { return car.price * taxcredit });
 
 console.log(kinds);
