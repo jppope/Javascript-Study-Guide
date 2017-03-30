@@ -1,7 +1,3 @@
-/**
- * this file is just to follow along
- */
-
 var tourney = [
 	{ "team": "Kansas", "wins": 3, "region": ""},
 	{ "team": "Duke", "wins": 0, "region": ""},
