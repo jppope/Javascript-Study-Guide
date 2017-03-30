@@ -2,32 +2,20 @@
  * this file is just to follow along
  */
 
-var tourney = [
-	{ "team": "Kansas", "wins": 3, "region": ""},
-	{ "team": "Duke", "wins": 0, "region": ""},
-	{ "team": "UCLA", "wins": 2, "region": ""},
-	{ "team": "North Carolina", "wins": 0, "region": ""},
-	{ "team": "Kentucky", "wins": 1, "region": ""},
-	{ "team": "West Virginia", "wins": 1, "region": ""},
-	{ "team": "Texas", "wins": 0, "region": ""},
-	{ "team": "Gonzaga", "wins": 0, "region": ""},
+let cars = [
+	{"model":"Honda", "make":"civic", "price":12000},
+	{"model":"subaru", "make":"outback", "price":14000},
+	{"model":"acura", "make":"tsx", "price":50000},
+	{"model":"lexus", "make":"GS", "price":78000},
+	{"model":"toyota", "make":"camry", "price":35000},
+	{"model":"tesla", "make":"x", "price":50000},
+	{"model":"tesla", "make":"s", "price":60000},
 ]
 
-function elite8(team){
-	return team.wins >= 0;
-}
+var taxcredit = .80;
 
-function finalFour(team){
-	return team.wins > 0;
-}
+let kinds = cars.map(function(car){
+	return car.price * taxcredit;
+});
 
-function championship(team){
-	return team.wins > 1;
-}
-
-var regionalFinal = tourney.filter(elite8);
-var semiFinal = tourney.filter(finalFour);
-var champAndRunnerUp = tourney.filter(championship);
-console.log(regionalFinal);
-console.log(semiFinal);
-console.log(champAndRunnerUp);
+console.log(kinds);
