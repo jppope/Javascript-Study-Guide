@@ -1,6 +1,14 @@
-# Built in Methods 
+# Built in Methods
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Methods_Index
+
+### String Manipulation
+* toUppercase
+* toLowercase
+* split("")
+* join("")
+* concat("")
+*
 
 ### Data Stuff
 
@@ -20,14 +28,13 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Methods_Index
 * **Math.asin()** 
 
 
-
 - eval()
 - isFinite()
 - isNaN()
 - parseFloat()
 - parseInt()
 - decodeURI()
-- decodeURIComponent() 
+- decodeURIComponent()
 - encodeURI()
 - encodeURIComponent()
 
@@ -58,4 +65,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Methods_Index
 
 * **add()**
 * **anchor()**
-* ​
+
+* indexOf()
+
+
+

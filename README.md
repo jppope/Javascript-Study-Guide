@@ -1,9 +1,12 @@
 # Javascript-Study-Guide
-a basic track for zero to hero in Javascript and full stack development
+a basic track for zero to hero in Javascript and full stack development.
+
+## But Why?
+For me I want to recap and get good at the basics... you can study a lot of things: shiney new technologies, different languages, algorithms, etc. but to really be the most efficient and to make the most out of any other study you need to know the basics.
 
 > "The Way" => Fundamentals(...not covered here), Language, Tools, Design Patters, Architecture, Skills
 
-To become great: Solve problems well... in fact, solve them really well, be fast, teach others, 
+To become great: Solve problems well... in fact, solve them really well, be fast, teach others,
 
 So the basic track goes like this:
 
@@ -30,18 +33,21 @@ So the basic track goes like this:
 ## Object Oriented Programming
 
 *	Overview
-*	Prototypal 
+*	Prototypal
 *	Classical methods
 * 	Constructor Methods
 *	Classical
 *	Classical methods
 * 	Constructor Methods
-*	Inheritance 
+*	Inheritance
 *	Polymorphism
 * 	Encapsulation
 
+## 	ES6 syntax
 
-##  Advanced Language Concepts 
+* 	String Interpolation
+
+##  Advanced Language Concepts
 *	Debugging
 *	recursive functions
 *	callback functions
