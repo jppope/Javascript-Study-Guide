@@ -1,37 +1,17 @@
 /**
- * this file is just to follow along
+ * Reduce
  */
 
-var nouns = [
-	"afterthought",
-	"downtown",
-	"observation",
-	"beginner",
-	"snail",
-	"coal",
-	"car",
-	"wind",
-	"airport",
-	"insurance",
-	"morning",
-	"arithmetic"
-]
+var companies = [
+	{"name":"tesla", "product":"cars", "price":100},
+	{"name":"ford", "product":"cars", "price":100},
+	{"name":"apple", "product":"computers", "price":10},
+	{"name":"google", "product":"ads", "price":50},
+	{"name":"GM", "product":"cars", "price":70},
+	{"name":"facebook", "product":"cat videos", "price":30}
+];
 
-function countIt(word){
-	return word.split("").length;
-}
-
-var wordsize = nouns.map(countIt)
-
-var totalLetters = 0;
-
-// example without reduce (checkout "reduce" to see this done cleaner)
-wordsize.forEach(function(word){
-	totalLetters += word;
-});
-
-// get the average word length
-var averageWord = totalLetters / nouns.length;
-
-// log the average word size
-console.log(Math.round(averageWord));
+var totalAmount = companies.reduce(function(sum, order){
+	return sum + order.price;
+}, 0)
+console.log(totalAmount);
