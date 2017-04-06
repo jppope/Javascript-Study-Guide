@@ -30,7 +30,6 @@ function horizontalVector(start, end){
 function combineVectors(obj){
 
 	while(obj.oneVert < obj.twoVert){
-
 		//generate array of second dimensions
 		var arr = horizontalVector(obj.oneHoriz,obj.twoHoriz);
 

@@ -8,7 +8,12 @@ Why do they exist? (one reason, not the only reason) Higher Order Functions exis
 
 > Analogy: Imagine a hydrogen powered vehicle that has to first convert water into hydrogen so that it can later convert the hydrogen into power that will move the vehicle
 
+## About Closures...
 
+In javascript functions have access to stuff outside of the function. That's it.
+
+Why do they exist?
+Ton's of reasons... but I would say the "main reason" (IMO) is that it makes it easier to interact with asyncronous activities going on in your code.
 
 ## Filter
 
@@ -17,7 +22,11 @@ Why do they exist? (one reason, not the only reason) Higher Order Functions exis
 
 Examples of Filter: http://codepen.io/jppope/pen/dvqmZW
 
+## Map
 
+
+
+## Reduce
 
 Common Questions (Neural Netting):
 
