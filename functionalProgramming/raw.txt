@@ -1,0 +1,5 @@
+mark johnsan	waffle iron	80	2
+mark johnsan	other thing	80	2
+mark johnsan	pot	100	2
+mrs smith	pot	100	2
+mrs smith	knife	120	1
