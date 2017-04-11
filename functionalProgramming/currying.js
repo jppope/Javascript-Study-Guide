@@ -16,7 +16,7 @@ let dragon = (name, size, element) =>
 console.log(dragon('fluffykins')('tiny')('lightning'));
 
 /**
- *  Example two
+ *  Example two - no currying
  */
 let dragons = [
 	{name:'fluffykins', element:'lightning'},
