@@ -2,7 +2,7 @@
  * Playing with how to map multiple sets of data
  */
 
-const mapToData = {
+const valueData = {
   "7017": "2207",
   "1154": "3605",
   "1154": "3605",
@@ -20,6 +20,12 @@ const data = [
   "1939",
 ]
 
+// store for new values created by associations
+var associations = []
+
+/**
+ * Get a count of how many items
+ */
 var count = data.reduce((total,item) => {
     if(item in total) {
       total[item]++;
@@ -28,6 +34,16 @@ var count = data.reduce((total,item) => {
     }
     return total;
 },{})
-console.log(count);
 
-//var mappedData = mapToData.reduce((total,item) => {return total},{})
+/**
+ * Iterate over the object
+ */
+Object.entries(count).forEach(([key, value]) => {
+  if(valueData[key]){
+    let mappedData = {};
+    mappedData[valueData[key]] = value;
+    associations.push(mappedData);
+  }
+});
+
+console.log(associations)
